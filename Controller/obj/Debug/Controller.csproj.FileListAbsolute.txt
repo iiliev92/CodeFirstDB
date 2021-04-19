@@ -1,0 +1,38 @@
+D:\Iliev\CodeFirstDB\Controller\bin\Debug\Controller.dll
+D:\Iliev\CodeFirstDB\Controller\bin\Debug\Controller.pdb
+D:\Iliev\CodeFirstDB\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+D:\Iliev\CodeFirstDB\Controller\obj\Debug\Controller.dll
+D:\Iliev\CodeFirstDB\Controller\obj\Debug\Controller.pdb
+F:\CodeFirstDB\Controller\bin\Debug\Controller.dll
+F:\CodeFirstDB\Controller\bin\Debug\Controller.pdb
+F:\CodeFirstDB\Controller\bin\Debug\Model.dll
+F:\CodeFirstDB\Controller\bin\Debug\EntityFramework.dll
+F:\CodeFirstDB\Controller\bin\Debug\Model.pdb
+F:\CodeFirstDB\Controller\bin\Debug\EntityFramework.xml
+F:\CodeFirstDB\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+F:\CodeFirstDB\Controller\obj\Debug\Controller.dll
+F:\CodeFirstDB\Controller\obj\Debug\Controller.pdb
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Controller\bin\Debug\Controller.dll
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Controller\bin\Debug\Controller.pdb
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Controller\bin\Debug\Model.dll
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Controller\bin\Debug\EntityFramework.dll
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Controller\bin\Debug\Model.pdb
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Controller\bin\Debug\Model.dll.config
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Controller\bin\Debug\EntityFramework.xml
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Controller\obj\Debug\Controller.csproj.CopyComplete
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Controller\obj\Debug\Controller.dll
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Controller\obj\Debug\Controller.pdb
+\\VBOXSVR\Coding\CodeFirstDB\Controller\bin\Debug\Controller.dll
+\\VBOXSVR\Coding\CodeFirstDB\Controller\bin\Debug\Controller.pdb
+\\VBOXSVR\Coding\CodeFirstDB\Controller\bin\Debug\Model.dll
+\\VBOXSVR\Coding\CodeFirstDB\Controller\bin\Debug\EntityFramework.dll
+\\VBOXSVR\Coding\CodeFirstDB\Controller\bin\Debug\Model.pdb
+\\VBOXSVR\Coding\CodeFirstDB\Controller\bin\Debug\Model.dll.config
+\\VBOXSVR\Coding\CodeFirstDB\Controller\bin\Debug\EntityFramework.xml
+\\VBOXSVR\Coding\CodeFirstDB\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+\\VBOXSVR\Coding\CodeFirstDB\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Coding\CodeFirstDB\Controller\obj\Debug\Controller.csproj.CopyComplete
+\\VBOXSVR\Coding\CodeFirstDB\Controller\obj\Debug\Controller.dll
+\\VBOXSVR\Coding\CodeFirstDB\Controller\obj\Debug\Controller.pdb

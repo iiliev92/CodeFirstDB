@@ -1,0 +1,64 @@
+D:\Iliev\CodeFirstDB\Model\bin\Debug\Model.dll.config
+D:\Iliev\CodeFirstDB\Model\bin\Debug\Model.dll
+D:\Iliev\CodeFirstDB\Model\bin\Debug\Model.pdb
+D:\Iliev\CodeFirstDB\Model\bin\Debug\EntityFramework.dll
+D:\Iliev\CodeFirstDB\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Iliev\CodeFirstDB\Model\bin\Debug\EntityFramework.xml
+D:\Iliev\CodeFirstDB\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Iliev\CodeFirstDB\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Iliev\CodeFirstDB\Model\obj\Debug\Model.dll
+D:\Iliev\CodeFirstDB\Model\obj\Debug\Model.pdb
+D:\Iliev\CodeFirstDB\Model\obj\Debug\Model.Migrations.RootDB.resources
+D:\Iliev\CodeFirstDB\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+F:\CodeFirstDB\Model\bin\Debug\Model.dll.config
+F:\CodeFirstDB\Model\bin\Debug\Model.dll
+F:\CodeFirstDB\Model\bin\Debug\Model.pdb
+F:\CodeFirstDB\Model\bin\Debug\EntityFramework.dll
+F:\CodeFirstDB\Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\CodeFirstDB\Model\bin\Debug\EntityFramework.xml
+F:\CodeFirstDB\Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\CodeFirstDB\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\CodeFirstDB\Model\obj\Debug\Model.Migrations.RootDB.resources
+F:\CodeFirstDB\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+F:\CodeFirstDB\Model\obj\Debug\Model.dll
+F:\CodeFirstDB\Model\obj\Debug\Model.pdb
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\obj\Debug\Model.dll
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\obj\Debug\Model.pdb
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\bin\Debug\Model.dll.config
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\bin\Debug\Model.dll
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\bin\Debug\Model.pdb
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\bin\Debug\EntityFramework.dll
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\bin\Debug\EntityFramework.SqlServer.dll
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\bin\Debug\EntityFramework.xml
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\bin\Debug\EntityFramework.SqlServer.xml
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\obj\Debug\Model.csproj.CopyComplete
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\obj\Debug\Model.Migrations.RootDB.resources
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\obj\Debug\Model.csproj.GenerateResource.cache
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\obj\Debug\Model.csprojAssemblyReference.cache
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\obj\Debug\Model.Migrations.AddedIndexToUser.resources
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\obj\Debug\Model.Migrations.ChangedProductPriceColumn.resources
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\obj\Debug\Model.Migrations.AddingColumnAttributes.resources
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\obj\Debug\Model.Migrations.AddingBrandNameColumnAttributes.resources
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\obj\Debug\Model.Migrations.TestingLazyLoading.resources
+\\VBOXSVR\Shared_Files\School (2020-2021)\Задачи\E\CodeFirstDB\Model\obj\Debug\Model.Migrations.LazyLoadingTestCompleted.resources
+\\VBOXSVR\Coding\CodeFirstDB\Model\bin\Debug\Model.dll.config
+\\VBOXSVR\Coding\CodeFirstDB\Model\bin\Debug\Model.dll
+\\VBOXSVR\Coding\CodeFirstDB\Model\bin\Debug\Model.pdb
+\\VBOXSVR\Coding\CodeFirstDB\Model\bin\Debug\EntityFramework.dll
+\\VBOXSVR\Coding\CodeFirstDB\Model\bin\Debug\EntityFramework.SqlServer.dll
+\\VBOXSVR\Coding\CodeFirstDB\Model\bin\Debug\EntityFramework.xml
+\\VBOXSVR\Coding\CodeFirstDB\Model\bin\Debug\EntityFramework.SqlServer.xml
+\\VBOXSVR\Coding\CodeFirstDB\Model\obj\Debug\Model.csprojAssemblyReference.cache
+\\VBOXSVR\Coding\CodeFirstDB\Model\obj\Debug\Model.Migrations.RootDB.resources
+\\VBOXSVR\Coding\CodeFirstDB\Model\obj\Debug\Model.Migrations.AddedIndexToUser.resources
+\\VBOXSVR\Coding\CodeFirstDB\Model\obj\Debug\Model.Migrations.ChangedProductPriceColumn.resources
+\\VBOXSVR\Coding\CodeFirstDB\Model\obj\Debug\Model.Migrations.AddingColumnAttributes.resources
+\\VBOXSVR\Coding\CodeFirstDB\Model\obj\Debug\Model.Migrations.AddingBrandNameColumnAttributes.resources
+\\VBOXSVR\Coding\CodeFirstDB\Model\obj\Debug\Model.Migrations.TestingLazyLoading.resources
+\\VBOXSVR\Coding\CodeFirstDB\Model\obj\Debug\Model.Migrations.LazyLoadingTestCompleted.resources
+\\VBOXSVR\Coding\CodeFirstDB\Model\obj\Debug\Model.csproj.GenerateResource.cache
+\\VBOXSVR\Coding\CodeFirstDB\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Coding\CodeFirstDB\Model\obj\Debug\Model.csproj.CopyComplete
+\\VBOXSVR\Coding\CodeFirstDB\Model\obj\Debug\Model.dll
+\\VBOXSVR\Coding\CodeFirstDB\Model\obj\Debug\Model.pdb
